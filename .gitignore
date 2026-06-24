@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+venv copy/
+
+# Chroma database
+chroma_db/
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# SQLite databases
+*.db
+*.sqlite3

@@ -1,0 +1,93 @@
+Security Incidents: What To Do If It Happens to You
+Nairobi Bottlers IT Helpdesk Knowledge Base  |  For: All Staff  |  Category: Security Incidents
+Security incidents can happen to anyone. This guide tells you exactly what to do if you receive a suspicious email, notice an unusual login, think your device has a virus, or lose a company device. The most important thing is to act quickly. If you are ever unsure what to do, contact the IT Helpdesk immediately.
+Important: For any security incident, always log a ticket with the IT Helpdesk as soon as possible, even if you think you have already handled it yourself.
+
+Issue 1: I Have Received a Suspicious or Phishing Email
+A phishing email is a fake email designed to trick you into clicking a link, entering your password, or downloading something harmful. If you receive one, do not panic. Follow the steps below.
+
+How Do I Know If an Email Is Suspicious?
+ -It is urgently asking you to transfer money, buy gift cards, or verify your payment details
+-It contains a link asking you to log in to Microsoft, Office 365, or another company system
+ -The sender's email address looks slightly wrong, for example @micros0ft.com instead of @microsoft.com
+ -It has attachments you were not expecting from that person
+ -The tone is unusually urgent, threatening, or too good to be true
+
+If You Have NOT Clicked Anything Yet
+1. Do not click any links or open any attachments in the email.
+2. Do not reply to the email, even to tell the sender to stop.
+3. In Outlook, right-click the email and look for a Report Phishing option, or use the Report Phishing button in the toolbar if it is available.
+4. Forward the suspicious email to the IT Security mailbox. Contact the IT Helpdesk if you do not have the address.
+5. Delete the email from your inbox, then go to your Deleted Items folder and delete it from there too.
+6. Log a ticket with the IT Helpdesk to let them know what you received and what you did.
+
+If You Already Clicked a Link or Entered Your Password
+Do not be embarrassed. This happens to people at all levels. What matters most is that you act fast.
+1. Disconnect your device from the internet immediately: turn off your Wi-Fi and unplug any network cable.
+2. Call or message the IT Helpdesk right now. Tell them exactly this: I clicked on a link in a suspicious email and I may have entered my password.
+3. Do not use your device or log in to any CCBK system until IT tells you it is safe to do so.
+4. IT will reset your password, check your account for any suspicious activity, and scan your device.
+5. Once IT has cleared your account and device, they will tell you what to do next and restore your access.
+Important: If you entered your CCBK password on a suspicious site, your account must be treated as compromised. Do not log into any company system until IT confirms your account is secure.
+
+Issue 2: I Received an Alert About a Suspicious Login to My Account
+If you get a notification saying someone tried to log into your account from an unfamiliar location or device, you should take it seriously, even if it turns out to be nothing.
+
+1. Read the alert carefully. It usually shows the location, device type, and time of the login attempt.
+2. Ask yourself honestly: could this have been me? Were you travelling, using a new device, or working from a different location at that time?
+3. If it was you: dismiss the alert, but still log a quick note with the IT Helpdesk so they are aware. No further action is needed.
+4. If it was NOT you: contact the IT Helpdesk immediately. Tell them: I received a suspicious login alert and I do not recognise the activity.
+5. If you are able to, change your CCBK password straight away from a device you trust. Go to your account settings and update it.
+6. If a Microsoft Authenticator push notification appears on your phone and you did not try to log in yourself, tap Deny immediately. Then contact the IT Helpdesk.
+7. IT will review your login history, remove any unauthorized sessions, and secure your account.
+Tip: Alerts showing logins from other countries or from multiple locations within minutes of each other are serious warning signs. Do not delay reporting these.
+
+Issue 3: My Device Is Showing Unusual Pop-Ups or I Think It Has a Virus
+If your screen is showing scary security warnings, unexpected pop-ups asking you to call a number, or your computer is behaving strangely, your device may have malware. Stay calm and follow these steps.
+
+Signs Your Device May Be Infected
+� Pop-up messages claiming your device is blocked or infected and asking you to call a phone number
+� Your computer has become very slow or is freezing without any clear reason
+� Programs or browser extensions you did not install have appeared
+� Your browser homepage or search engine has changed on its own
+� Your antivirus is showing active warnings or alerts
+
+What You Need to Do
+1. Do not click anything on the pop-up, including the X close button if it looks unusual.
+2. Press Alt and F4 at the same time to close the suspicious window. If that does not work, press Ctrl, Shift, and Esc together to open Task Manager, find the suspicious application, and click End Task.
+3. Do NOT call any phone number shown on a pop-up message. These are scams. The real IT Helpdesk will never display a pop-up asking you to call them.
+4. Disconnect your device from the network: turn off Wi-Fi and unplug the network cable.
+5. Contact the IT Helpdesk immediately. Tell them: I am seeing suspicious pop-ups and I think my device may be infected.
+6. Do not continue using the device until IT has confirmed it is clean and safe.
+7. IT will remotely scan and clean your device, and confirm when it is safe to use again.
+Important: If you called a phone number shown in a pop-up, or if someone asked you to install software so they could access your screen remotely, contact IT immediately. This is a serious security incident.
+
+Issue 4: My USB Drive Is Being Blocked
+CCBK restricts USB devices on company computers to protect against data breaches and malware. If your USB drive is being blocked, here is what to do.
+
+If You Need USB Access for a Work Task
+1. Log a request with the IT Helpdesk via ServiceNow. Explain the software or file you need to transfer and the business reason for it.
+2. Your line manager will need to approve the request before IT can enable USB access for you.
+3. Once approved, IT will enable USB access on your device, sometimes with a set time limit for the task.
+4. When you have finished, let IT know so they can close the access if it was temporary.
+
+If You Connected a USB Drive Without Realising It Was Restricted
+1. Remove the USB drive from your device.
+2. Do not try to plug it back in or look for a way to bypass the restriction.
+3. Log a ticket with the IT Helpdesk explaining what happened. If nothing was transferred, IT will check the logs and confirm everything is fine.
+Important: USB restrictions exist to protect the company and all staff. Even with good intentions, an uncontrolled USB connection can introduce malware or cause a data leak. Always get approval first.
+
+Issue 5: My Work Device Has Been Lost or Stolen
+Losing a company device is stressful, but acting quickly is what limits the damage. Follow these steps as soon as you realise the device is missing.
+
+1. Contact the IT Helpdesk immediately. Do not wait to see if the device turns up first. The sooner IT knows, the faster they can protect your account and data.
+2. Tell IT the device type (laptop, phone, or tablet), the model if you know it, and the asset tag number (usually a sticker on the device). Share the serial number too if you have it.
+3. Tell IT approximately when and where you last had the device.
+4. IT will remotely lock the device so it cannot be used by anyone without your credentials.
+5. If the device contains sensitive company data, IT may perform a remote wipe to erase everything on it. They will explain this to you and confirm before doing so.
+6. From a different device, change your CCBK password as soon as possible.
+7. If the device was stolen rather than lost, file a police report and get the reference number. Share this with IT and your manager.
+8. Your manager and HR will be notified as part of the standard incident process. This is normal.
+9. IT will guide you through the process of getting a replacement device once the incident report is filed.
+Important: A remote wipe permanently deletes everything on the device and cannot be undone. IT will confirm with you before they do this. Let them know if you had any personal files stored on the device.
+Tip: Even if you are fairly sure you just misplaced the device and will find it shortly, still notify IT straight away. It is much easier for IT to cancel a remote lock than to recover from a data breach.

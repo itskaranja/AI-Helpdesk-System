@@ -1,0 +1,101 @@
+Compliance & Policy Issues: Self-Help Guide
+Nairobi Bottlers  IT Helpdesk Knowledge Base  |  For: All Staff  |  Category: Device Compliance & Policy
+This guide will help you resolve common compliance and policy issues on your work device. Follow the section that matches your problem. If the steps do not resolve your issue, contact the IT Helpdesk and tell them which section you followed.
+
+Issue 1: My Device Has Been Marked as Non-Compliant
+You may have received a notification saying your device is non-compliant, or you may have suddenly lost access to email, the VPN, or shared drives. This means your device is not meeting one or more of CCBK's security requirements. Do not worry � most of the time you can fix this yourself by following the steps below.
+
+What Could Be Causing This?
+� Your Windows updates are out of date
+� Your antivirus definitions have not been updated recently
+� BitLocker drive encryption has been turned off
+� Your device has not synced with CCBK's IT systems for a while
+� Unauthorized software was detected on your device
+� The device management agent (Intune or SCCM) is not running properly
+
+What You Need to Do � Follow These Steps in Order
+
+Step 1 � Check Your Internet Connection
+1. Before doing anything else, make sure your device is connected to the internet.
+2. If you are working from home or outside the office, connect to the CCBA VPN first.
+3. Open a browser and try visiting any website to confirm your connection is working.
+
+Step 2 � Sync Your Device with CCBK IT Systems
+1. Click the Start menu and open Settings.
+2. Go to Accounts, then click Access Work or School.
+3. Click on your connected CCBK work account.
+4. Click Info, then click the Sync button.
+5. Wait 5 to 10 minutes, then check if your access has been restored.
+
+Step 3 � Update Your Device Policies
+1. Click the Start menu and search for Command Prompt.
+2. Right-click on Command Prompt and select Run as Administrator.
+3. Type the following and press Enter:   gpupdate /force
+4. Wait for the process to finish. Restart your device if it asks you to.
+Tip: This step fixes most policy-related compliance failures and usually resolves the issue on its own.
+
+Step 4 � Check That Your Drive Is Encrypted (BitLocker)
+1. Click the Start menu and open Control Panel.
+2. Go to System and Security, then click BitLocker Drive Encryption.
+3. Check that it says On next to your C: drive.
+4. If it says Off: click Turn on BitLocker and follow the on-screen prompts.
+5. When asked where to save your recovery key, choose Save to your Azure AD account (the recommended option).
+6. Restart your device when prompted.
+Important: If you are unable to turn on BitLocker or it gives an error, stop and contact the IT Helpdesk. Do not try to force it.
+
+Step 5 � Check Your Antivirus Is Active
+1. Look for the antivirus icon in your system tray at the bottom-right of your screen.
+2. Open it and confirm that Real-time Protection is turned On.
+3. Check whether your virus definitions are up to date. Click Update if an option is available.
+4. Run a Quick Scan and wait for it to complete.
+5. If the antivirus is not opening or shows an error, contact the IT Helpdesk. Do not attempt to reinstall it yourself.
+
+Step 6 � Free Up Space on Your Device
+1. Open File Explorer and click on This PC.
+2. Check how much free space is shown on your C: drive.
+3. If it is below 10 GB, you need to clear some space.
+4. Click the Start menu, search for Disk Cleanup, and run it.
+5. Tick Temporary files and Recycle Bin, then click OK to delete them.
+Tip: A full hard drive is one of the most common and overlooked reasons compliance checks fail. This quick fix saves a lot of frustration.
+
+Still Not Resolved After All These Steps?
+If your device is still showing as non-compliant after 24 hours, log a ticket with the IT Helpdesk. Let them know which steps you already completed so they can pick up from where you left off without repeating what you have already done.
+
+Issue 2: I Am Not Receiving My MFA Code or Login Prompt
+Multi-Factor Authentication (MFA) is required to log in to CCBK systems. If you are not getting your one-time code or the Microsoft Authenticator app is not working, this guide will help.
+
+Common Reasons This Happens
+� You recently changed your phone or got a new SIM card
+� Your Authenticator app has gone out of sync
+� Push notifications are turned off on your phone for the Authenticator app
+� Your phone's date and time are incorrect, which breaks code generation
+
+What You Need to Do
+1. Check that your phone has a working internet or mobile data connection.
+2. On your phone, go to Settings and find Date and Time. Make sure Set Automatically is turned on.
+3. Open the Microsoft Authenticator app and confirm that your CCBK work account is listed.
+4. On your phone, go to Settings, find the Authenticator app, and confirm notifications are allowed.
+5. Inside the Authenticator app, try pulling down to refresh or tapping your account to sync.
+6. If none of the above works, contact the IT Helpdesk and ask them to reset your MFA. They will walk you through setting it up again on your device.
+Important: If you think someone else may have accessed your account, contact the IT Helpdesk immediately. Do not wait to see if it resolves itself.
+
+Issue 3: I Cannot Complete My Policy Acknowledgment
+You may have been asked to read and acknowledge an IT or company policy before you can access certain systems. If the acknowledgment portal is not loading or not working, here is what to do.
+
+1. Check that you received the acknowledgment email. Also check your Junk or Spam folder just in case.
+2. Click the link in the email to open the policy portal.
+3. Read through the policy document and click the Acknowledge or I Agree button at the end.
+4. If the portal does not load, clear your browser cache: press Ctrl + Shift + Delete, set the time range to All Time, tick Cached images and files and Cookies, then click Clear.
+5. If clearing the cache does not help, try opening the link in a different browser. If you normally use Chrome, try Edge, or vice versa.
+6. If you are still unable to access the portal, contact the IT Helpdesk. Tell them you are trying to complete a policy acknowledgment and let them know which browser and steps you already tried.
+Tip: Some system access remains restricted until your acknowledgment is on record. Completing this quickly means your access is restored faster.
+
+Issue 4: I Have Been Told Unauthorized Software Was Found on My Device
+CCBK only allows approved software on company devices. If you have received a notification that unauthorized software was detected on your device, here is what you need to know and do.
+
+1. Check the notification or email to find out which software was flagged.
+2. If you installed it yourself and you use it for work, you can request IT to approve it formally. Log a request via ServiceNow explaining the software name and your business reason for needing it.
+3. If IT removes the software remotely to restore your compliance, you will be notified. This is normal and expected.
+4. If you do not recognise the software at all, contact the IT Helpdesk immediately. Unknown software on a company device is a security concern.
+5. Once IT confirms your device is compliant again, your full access will be restored.
+Important: Do not reinstall software that IT has removed. Always submit a formal request through ServiceNow and wait for approval before installing anything new.

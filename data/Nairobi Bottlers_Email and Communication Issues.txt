@@ -1,0 +1,143 @@
+?? CATEGORY: EMAIL & COMMUNICATION ISSUES
+
+IT Helpdesk Knowledge Base | For: All Staff
+
+Issue: Outlook Not Opening
+
+Description:
+The user is unable to open Microsoft Outlook on their device. When attempting to launch the application, it may fail to start completely, freeze during loading, or display an error message. This issue prevents the user from accessing emails, calendars, and other communication features.
+
+Symptoms:
+
+Outlook does not open when clicked
+Application freezes during startup
+Error messages appear when launching Outlook
+Outlook crashes immediately after opening
+
+Possible Causes:
+
+Corrupted Outlook application files
+Conflicting or faulty add-ins
+Unstable or missing internet connection
+System resource limitations or background conflicts
+
+Solution:
+
+Restart the computer completely to clear any temporary system errors that may be preventing Outlook from launching properly. This helps reset background processes and frees up system resources.
+Attempt to access your email using Outlook Web through a browser to confirm whether your account is working correctly. If the web version works, the issue is likely with the desktop application.
+Check that your internet connection is stable and active, since Outlook requires connectivity to synchronize emails and load properly. Try opening other websites to confirm connectivity.
+Launch Outlook in safe mode (if prompted or possible) and disable any add-ins that may be causing conflicts, as some extensions can interfere with startup.
+
+Additional Notes:
+If Outlook continues to fail after performing these steps, escalate the issue to IT support for deeper troubleshooting, including possible reinstallation or repair of the application.
+
+Issue: Emails Stuck in Outbox
+
+Description:
+The user notices that emails remain in the outbox and are not being sent to recipients. This can delay communication and may affect urgent or important messages.
+
+Symptoms:
+
+Emails remain in the outbox folder
+Messages show as �sending� but never complete
+Recipients do not receive sent emails
+
+Possible Causes:
+
+Weak or unstable internet connection
+Attachments that are too large to send
+Outlook synchronization issues
+Temporary server or application errors
+
+Solution:
+
+Check your internet connection to ensure it is stable and working properly, since emails cannot be sent without connectivity. Try loading a webpage or reconnecting to the network if needed.
+Review the email for large attachments and reduce their size if necessary, as oversized files can prevent emails from being sent successfully. Consider compressing files or using cloud links instead.
+Restart Outlook completely to refresh the application and clear any temporary sending errors that may be affecting the outbox.
+Send a simple test email without attachments to confirm whether the issue is related to the email content or a broader system problem.
+
+Additional Notes:
+If emails continue to remain stuck after these steps, escalate to IT support to check server settings, mailbox limits, or synchronization issues.
+
+Issue: Missing Emails
+
+Description:
+The user is unable to locate expected emails in their inbox. These emails may appear to be missing, delayed, or incorrectly sorted into other folders.
+
+Symptoms:
+
+Expected emails not visible in inbox
+Missing communication from colleagues or clients
+Gaps in email threads
+
+Possible Causes:
+
+Emails automatically sorted into other folders
+Spam or junk filtering rules
+Outlook sync delays
+Incorrect search filters
+
+Solution:
+
+Use the search bar in Outlook to look for the email using keywords such as the sender�s name, subject, or specific phrases, as the message may still exist but not be immediately visible.
+Check the Junk or Spam folder carefully, since some legitimate emails may be incorrectly filtered by the system.
+Review other tabs such as �Focused� and �Other� (if enabled), as Outlook may automatically categorize emails and place them outside the main inbox view.
+Contact the sender to confirm whether the email was sent successfully and request a resend if necessary.
+
+Additional Notes:
+If the email is critical and still cannot be found, escalate to IT support to investigate mailbox rules, server delivery logs, or synchronization issues.
+
+Issue: Shared Mailbox Access Issues
+
+Description:
+The user is unable to access a shared mailbox that they are supposed to use for team communication. The mailbox may not appear, or access may be denied.
+
+Symptoms:
+
+Shared mailbox not visible in Outlook
+Access denied message when opening mailbox
+Unable to send or receive from shared account
+
+Possible Causes:
+
+Permissions not granted or incorrectly configured
+Outlook synchronization delays
+Mailbox not properly added to the account
+
+Solution:
+
+Restart Outlook to refresh mailbox connections and allow the system to reload account data properly.
+Access the mailbox through Outlook Web to determine whether the issue is with the desktop application or the account itself.
+Confirm with your manager or administrator that the correct permissions have been granted for you to access the shared mailbox.
+Manually remove and re-add the shared mailbox in your Outlook account settings to ensure it is properly linked.
+
+Additional Notes:
+If access issues persist, escalate to IT support to verify permissions and server configurations.
+
+Issue: Teams/Calendar Sync Problems
+
+Description:
+The user experiences issues where meetings or calendar events do not sync correctly between Microsoft Teams and Outlook. This can lead to missed meetings or scheduling conflicts.
+
+Symptoms:
+
+Meetings missing in Teams or Outlook
+Calendar events not updating
+Mismatched schedules between applications
+
+Possible Causes:
+
+Synchronization errors between services
+Unstable internet connection
+Incorrect time zone settings
+Account sign-in inconsistencies
+
+Solution:
+
+Restart both Microsoft Teams and Outlook to refresh their synchronization processes and ensure they reconnect properly to the server.
+Check your internet connection to confirm it is stable, as syncing requires continuous communication with online services.
+Sign out of both Teams and Outlook, then sign back in to reset your session and re-establish proper synchronization.
+Verify that your time zone settings are correctly configured in both applications, as mismatched settings can cause events to appear incorrectly.
+
+Additional Notes:
+If synchronization issues continue, escalate to IT support for further investigation into account or server-related problems.

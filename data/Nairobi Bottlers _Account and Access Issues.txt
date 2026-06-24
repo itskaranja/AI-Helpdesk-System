@@ -1,0 +1,135 @@
+CATEGORY: ACCOUNT AND ACCESS ISSUES
+
+IT Helpdesk Knowledge Base | For: All Staff
+
+Issue: Password Reset Requests
+
+Description:
+The user is unable to log into their account due to forgotten or incorrect password credentials.
+
+Symptoms:
+
+Login attempts failing
+�Incorrect password� message
+Unable to access system
+
+Possible Causes:
+
+Forgotten password
+Caps Lock or Num Lock enabled
+Expired password
+Delayed reset email or OTP
+
+Solution:
+
+Check keyboard settings (Caps Lock/Num Lock)
+Use the �Forgot Password� option
+Check email or SMS for reset link or OTP
+Check spam/junk folders
+Retry after a few minutes
+
+Additional Notes:
+If reset fails, escalate to IT for manual reset.
+
+Issue: Account Lockouts
+
+Description:
+The user�s account becomes locked after multiple failed login attempts.
+
+Symptoms:
+
+�Account locked� message
+Unable to login despite correct credentials
+
+Possible Causes:
+
+Multiple failed login attempts
+Security policies triggered
+
+Solution:
+
+Stop repeated login attempts
+Wait 15 minutes for auto-unlock
+Try again with correct password
+Reset password if needed
+
+Additional Notes:
+Contact IT if urgent access is required.
+
+Issue: New Employee Account Activation
+
+Description:
+A new employee is unable to access their assigned system account after onboarding.
+
+Symptoms:
+
+Login credentials not working
+No access to email or systems
+
+Possible Causes:
+
+Account not yet created
+Delay in system synchronization
+Incorrect credentials
+
+Solution:
+
+Confirm account request with HR
+Try provided credentials
+Check Outlook Web access
+Wait up to 24 hours
+
+Additional Notes:
+Escalate if still inactive after 24 hours.
+
+Issue: Disabled Accounts
+
+Description:
+The user�s account has been disabled, often after a period of inactivity or leave.
+
+Symptoms:
+
+Login denied
+�Account disabled� message
+
+Possible Causes:
+
+Account deactivation policy
+Leave or inactivity
+Security action
+
+Solution:
+
+Attempt login again
+Contact manager for reactivation
+Try password reset
+Wait for system updates
+
+Additional Notes:
+Escalate if access is urgently needed.
+
+Issue: Permission Denied Errors
+
+Description:
+The user cannot access specific files, systems, or applications due to insufficient permissions.
+
+Symptoms:
+
+�Access denied� message
+Inability to open files or systems
+
+Possible Causes:
+
+Missing access rights
+Incorrect role assignment
+System restrictions
+
+Solution:
+
+Confirm correct resource access
+Try another device
+Check if colleagues have access
+Get manager approval
+
+Additional Notes:
+Escalate to IT after approval.

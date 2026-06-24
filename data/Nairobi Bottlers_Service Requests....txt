@@ -1,0 +1,64 @@
+CATEGORY: SERVICE REQUESTS (NON-INCIDENT)
+
+IT Helpdesk Knowledge Base | For: All Staff
+
+Issue: New Software Installation
+
+Description:
+The user requires installation of new software that is not currently available on their device. This request is typically related to job responsibilities or project requirements.
+
+Solution:
+
+Confirm with your manager that the software is required for your role, as approval is often needed before installation to ensure compliance with company policies.
+Check whether the software is already installed on your device by searching your applications list, as it may already be available but not easily visible.
+Submit a request through the self-service portal if available, providing accurate details about the software needed to ensure proper processing.
+After installation, restart your computer to ensure the software is properly configured and all components are activated correctly.
+If the installation fails or the software is not available, escalate the request to IT support for manual installation or further assistance.
+Issue: Hardware Replacement Requests
+
+Description:
+The user requests replacement of a faulty or damaged hardware device that is no longer functioning effectively.
+
+Solution:
+
+Check all device connections to ensure the issue is not caused by loose cables or incorrect setup, as this can sometimes mimic hardware failure.
+Restart the device to eliminate temporary faults that may be affecting its performance.
+If possible, try using another device temporarily to confirm whether the issue is specific to the hardware in question.
+Report the issue to your manager and request approval for replacement, as this is usually required before IT can proceed.
+Escalate the request to IT support if the device is confirmed to be faulty or unusable, so that replacement arrangements can be made.
+Issue: User Role Changes
+
+Description:
+The user has changed roles within the organization and requires updated system access to match their new responsibilities.
+
+Solution:
+
+Confirm with HR that your role change has been officially updated in the system, as access rights depend on accurate role information.
+Log in using your current account and attempt to access relevant systems to check whether permissions have already been updated.
+Verify whether you can access files, applications, or resources associated with your new role or department.
+Allow up to 24 hours for system updates to propagate across all platforms, as some changes may not be immediate.
+If access rights are still not updated after this period, escalate the issue to IT support for manual adjustment.
+Issue: Printer Setup
+
+Description:
+The user needs to set up a printer on their device to enable printing within the organization.
+
+Solution:
+
+Ensure the printer is powered on and properly connected, as it will not be detected if it is turned off or disconnected.
+Connect your device to the correct network, especially for shared printers that rely on WiFi or internal network access.
+Add the printer through your system settings (e.g., �Devices & Printers�) by searching for available printers on the network.
+Print a test page to confirm that the setup was successful and the printer is functioning correctly.
+If the printer does not work after setup, escalate to IT support for further configuration or troubleshooting.
+Issue: Asset Tagging
+
+Description:
+The user needs to ensure that their assigned device is properly tagged for identification and tracking within the organization.
+
+Solution:
+
+Check whether the device already has an asset tag attached, as some devices may be pre-tagged before issuance.
+If the tag is missing, report it to your manager so that a request can be initiated for proper tagging.
+Verify asset details in the company portal if accessible, ensuring that the device is correctly recorded under your name.
+Keep the device safe and secure while awaiting tagging to prevent loss or misidentification.
+If a tag is not provided within 48 hours, escalate the issue to IT support for follow-up and resolution.

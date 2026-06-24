@@ -1,0 +1,150 @@
+CATEGORY: HARDWARE ISSUES
+
+IT Helpdesk Knowledge Base | For: All Staff
+
+Issue: Laptop Not Powering On
+
+Description:
+The user reports that their laptop does not turn on when the power button is pressed. There are no visible signs of power such as indicator lights, fan movement, or screen activity. This issue may occur suddenly, after a shutdown, or when the device has not been used for a while.
+
+Symptoms:
+
+No response when power button is pressed
+No lights, sounds, or display activity
+Charging indicator not visible
+
+Possible Causes:
+
+Faulty or disconnected charger
+Dead or improperly connected battery
+Faulty power outlet
+Internal hardware failure (motherboard or power circuit)
+
+Solution:
+
+Check that the charger is securely connected to both the laptop and the power source
+Try a different power socket to rule out outlet issues
+If the battery is removable, remove and reinsert it properly
+Press and hold the power button for 10�15 seconds to perform a hard reset
+Test with another compatible charger if available
+
+Additional Notes:
+If the laptop still does not power on, escalate the issue to IT support for hardware diagnostics or repair.
+
+Issue: Slow System Performance
+
+Description:
+The user experiences slow performance while using their computer. Applications may take longer than usual to open, the system may freeze occasionally, or general responsiveness is reduced.
+
+Symptoms:
+
+Programs loading slowly
+System lag or freezing
+Delayed response to user input
+High CPU or memory usage
+
+Possible Causes:
+
+Too many applications running in the background
+Insufficient RAM
+Ongoing antivirus scans
+Disk storage nearly full
+Outdated system or drivers
+
+Solution:
+
+Restart the computer to clear temporary processes
+Close unused applications and browser tabs
+Delete temporary files using disk cleanup tools
+Check if antivirus scans are running and wait for completion
+Install system and driver updates
+
+Additional Notes:
+If the issue persists, IT may need to perform advanced diagnostics or upgrade system hardware.
+
+Issue: Battery Not Charging
+
+Description:
+The user notices that the laptop battery is not charging even when the charger is connected. The battery percentage may remain constant or continue decreasing.
+
+Symptoms:
+
+Battery percentage not increasing
+Charging indicator not showing
+Laptop only works when plugged in
+
+Possible Causes:
+
+Faulty charger or cable
+Damaged charging port
+Battery wear or failure
+Power supply issues
+
+Solution:
+
+Check if the charger light is on
+Try using another compatible charger
+Restart the laptop while plugged in
+Clean the charging port to remove dust or debris
+Ensure the charging cable is not damaged
+
+Additional Notes:
+If the battery still does not charge, the battery or charging system may need replacement.
+
+Issue: Keyboard/Mouse Malfunction
+
+Description:
+The user reports that the keyboard or mouse is not responding properly. This may include unresponsive keys, delayed input, or complete device failure.
+
+Symptoms:
+
+Keys not working or typing incorrect characters
+Mouse cursor not moving
+Delayed or inconsistent input
+
+Possible Causes:
+
+Loose or disconnected device
+Faulty USB port or wireless connection
+Driver issues
+Hardware failure
+
+Solution:
+
+Disconnect and reconnect the device
+Try a different USB port or reconnect wireless pairing
+Restart the computer to reload drivers
+Test with another keyboard or mouse
+Replace batteries if using wireless devices
+
+Additional Notes:
+If the issue persists, escalate to IT for hardware replacement or further troubleshooting.
+
+Issue: Screen Flickering
+
+Description:
+The user observes that the screen flickers intermittently, affecting visibility and usability. This may happen continuously or occasionally.
+
+Symptoms:
+
+Screen brightness fluctuating
+Flickering display
+Distorted visuals
+
+Possible Causes:
+
+Loose display cable
+Outdated or corrupted display drivers
+Graphics card issues
+Incorrect display settings
+
+Solution:
+
+Restart the computer
+Check connections for external monitors
+Adjust brightness settings
+Update display drivers
+Test with another display if possible
+
+Additional Notes:
+Persistent flickering may indicate hardware issues requiring IT intervention.

@@ -1,0 +1,93 @@
+Network & Connectivity Issues: Self-Help Guide
+IT Helpdesk Knowledge Base  |  For: All Staff  |  Category: Network, VPN & Remote Access
+Use this guide to fix common network and connectivity problems. Find the section that matches your issue and work through the steps. If the problem is not resolved, contact the IT Helpdesk and let them know which steps you already tried.
+
+Issue 1: I Cannot Connect to the CCBA VPN
+The VPN lets you securely access CCBK systems when you are working outside the office. If it is not connecting, work through these steps one by one.
+
+Common Signs of This Problem
+� You get an authentication error when you enter your credentials
+� The VPN connects for a second and then drops immediately
+� You are not receiving the MFA approval prompt on your phone
+� The VPN shows as connected but you still cannot access any company resources
+
+Step 1  Make Sure Your Internet Is Working First
+1. Open a browser and visit any public website, such as google.com.
+2. If you cannot access the internet at all, fix your internet connection before trying the VPN. The VPN cannot work without internet.
+
+Step 2 Check Your Username and Password
+1. Make sure you are using your CCBK work username and password, not a personal one.
+2. Passwords are case-sensitive. Check that Caps Lock is not on.
+3. If you recently changed your password, make sure you are using the new one.
+4. If you have had multiple failed login attempts, your account may be locked. Contact the IT Helpdesk to have it unlocked.
+
+Step 3 Check Your MFA Approval
+1. When you try to log in to the VPN, watch your phone for a notification from the Microsoft Authenticator app.
+2. Open the app and tap Approve if a request is waiting.
+3. If no notification appears, check your phone has a working internet or data connection.
+4. If MFA is not working at all, contact the IT Helpdesk and ask them to reset it for you.
+
+Step 4  Restart the VPN Application
+1. Fully close the VPN client. Do not just minimize it � right-click its icon in the system tray and select Exit or Quit.
+2. Reopen the application and try connecting again.
+3. If it still fails, restart your computer and try once more.
+
+Step 5  Clear Your Saved VPN Credentials
+1. Click the Start menu and open Control Panel.
+2. Go to User Accounts, then click Credential Manager.
+3. Look for any saved entries related to the VPN or your CCBK work account.
+4. Click on each one and select Remove.
+5. Try connecting to the VPN again and enter your credentials fresh when prompted.
+
+Step 6  Reinstall the VPN Application
+1. If none of the above has worked, the VPN application may be corrupted.
+2. Go to Settings and then Apps. Find the VPN software and uninstall it.
+3. Restart your computer.
+4. Contact the IT Helpdesk to get the latest approved VPN installer and instructions for reinstalling it.
+
+VPN Shows Connected But I Still Cannot Access Company Resources
+If your VPN is showing as connected but you still cannot open shared drives, Outlook, or internal systems, this is a network routing issue that cannot be fixed from your side. Contact the IT Helpdesk and say: My VPN is connected but I cannot access internal resources. They will investigate from their end.
+
+Issue 2: I Have No Internet Access
+If you cannot access the internet at all on your work device, follow these steps.
+
+1. First, check if other devices around you (a colleague's laptop, your phone) also have no internet.
+2. If everyone nearby has no internet, this is likely a building or network outage. Contact the IT Helpdesk straight away. There is nothing you can fix on your own in this case.
+3. If only your device has no internet, right-click the network icon in your system tray (bottom-right of your screen) and select Troubleshoot Problems. Let Windows try to fix it automatically.
+4. Try turning your network connection off and on: go to Settings, then Network and Internet, find your connection, disable it, wait a few seconds, then enable it again.
+5. Restart your device and check again after it comes back on.
+6. If you are on Wi-Fi, try moving closer to the access point, or ask IT if there is a spare network cable you can use instead.
+7. If the problem continues, contact the IT Helpdesk. Let them know whether you are on Wi-Fi or a wired connection and what the troubleshooter said.
+
+Issue 3: My Wi-Fi Keeps Disconnecting
+If your Wi-Fi drops repeatedly throughout the day and reconnects on its own, this guide will help you identify what is causing it.
+
+1. Note how far you are sitting from the nearest Wi-Fi access point on your floor. If you are far away or separated by walls, the signal may simply be too weak.
+2. Try moving closer to the access point and see if the disconnections stop.
+3. Forget the Wi-Fi network and reconnect from scratch: go to Settings, then Network and Internet, then Wi-Fi. Click Manage Known Networks, find your network, click Forget, then reconnect and enter the password again.
+4. Right-click the Start menu, open Device Manager, and expand Network Adapters. Right-click your Wi-Fi adapter and select Update Driver, then choose Search automatically for drivers.
+5. In Device Manager, right-click your Wi-Fi adapter again, go to Properties, click the Power Management tab, and uncheck the box that says Allow the computer to turn off this device to save power.
+6. If you sit at a fixed desk and this keeps happening, log a ticket with the IT Helpdesk and ask if a Wi-Fi extender can be added near your workstation.
+Tip: If several colleagues sitting near you are also experiencing Wi-Fi drops, mention this when you contact the IT Helpdesk. A group report usually means the access point itself needs attention and speeds up the fix.
+
+Issue 4: I Cannot Access a Shared Drive or Folder
+If you are getting an Access Denied message or a shared drive you normally use has disappeared, here is what to do.
+
+1. Make sure you are connected to the CCBK office network or the CCBA VPN if you are working remotely. Shared drives are not accessible without a network or VPN connection.
+2. Confirm you are using the correct path for the drive. If you are unsure, ask a colleague who has access what the path looks like. It will be in the format:  \\servername\foldername
+3. Try mapping the drive manually. Open File Explorer, click on This PC in the left panel, then click Map Network Drive at the top of the window.
+4. Enter the drive path and click Finish. When asked for credentials, use your CCBK username and password.
+5. Log out of your computer and log back in. Sometimes your permissions only refresh after a fresh login.
+6. If you still cannot access the drive after all the above steps, your account may not be in the correct permissions group. Log a ticket with the IT Helpdesk and ask them to check your access permissions for that specific drive.
+Important: IT cannot grant you access to a drive or folder without your manager's approval. If this is a new access request, ask your manager to email the IT Helpdesk with their approval before you log the ticket.
+
+Issue 5: I Cannot Connect to a Remote Desktop or Remote System
+If you are trying to access a work computer or internal system remotely and it is not connecting, follow these steps.
+
+1. Check that your local internet connection is working before anything else.
+2. If VPN is required to reach the system, make sure you are connected to the VPN before opening Remote Desktop.
+3. Double-check the computer name or IP address you are typing. Even one wrong character will cause a connection failure.
+4. Close the Remote Desktop application completely, reopen it, and try again.
+5. Make sure you are entering your CCBK username in the correct format. It is usually DOMAIN\username. If you are unsure of the exact format, check with the IT Helpdesk.
+6. If you get a message saying the remote computer cannot be found or is unavailable, it may simply be turned off. Ask a colleague in the office to check if the machine is powered on.
+7. If none of the above resolves the issue, contact the IT Helpdesk. Give them the name of the computer you are trying to reach and the exact error message you are seeing.
